@@ -18,6 +18,9 @@ try {
         echo 'User has canceled authentication!';
     } else {
         echo 'User ' . ($openid->validate() ? $openid->identity . ' has ' : 'has not ') . 'logged in.';
+		
+		var $steamId64 = substr($openid->identity, -17);
+		$data_GetPlayerSummaries = file_get_contents('http://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key=BB1942B65ECC5A5AB33F1F3BEABC2BBF&steamids=' . $steamId64);
     }
 } catch(ErrorException $e) {
     echo $e->getMessage();

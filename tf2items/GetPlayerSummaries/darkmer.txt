@@ -1,0 +1,24 @@
+{
+	"response": {
+		"players": {
+			"player": [
+				{
+					"steamid": "76561197965488354",
+					"communityvisibilitystate": 3,
+					"profilestate": 1,
+					"personaname": "Darkmer",
+					"lastlogoff": 1332653927,
+					"profileurl": "http:\/\/steamcommunity.com\/id\/darkmer\/",
+					"avatar": "http:\/\/media.steampowered.com\/steamcommunity\/public\/images\/avatars\/ce\/ce4005f9a1444d8b363144597096591fb82b79a6.jpg",
+					"avatarmedium": "http:\/\/media.steampowered.com\/steamcommunity\/public\/images\/avatars\/ce\/ce4005f9a1444d8b363144597096591fb82b79a6_medium.jpg",
+					"avatarfull": "http:\/\/media.steampowered.com\/steamcommunity\/public\/images\/avatars\/ce\/ce4005f9a1444d8b363144597096591fb82b79a6_full.jpg",
+					"personastate": 0,
+					"primaryclanid": "103582791430692351",
+					"timecreated": 1080948360,
+					"loccountrycode": "US",
+					"locstatecode": "NY"
+				}
+			]
+		}
+	}
+}

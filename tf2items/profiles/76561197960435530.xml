@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561197960435530</steamID64>
+	<steamID><![CDATA[Robin]]></steamID>
+	<onlineState>offline</onlineState>
+	<stateMessage><![CDATA[Last Online: 39 hrs, 3 mins ago]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f1/f1dd60a188883caf82d0cbfccfe6aba0af1732d4.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f1/f1dd60a188883caf82d0cbfccfe6aba0af1732d4_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f1/f1dd60a188883caf82d0cbfccfe6aba0af1732d4_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[robinwalker]]></customURL>
+	<memberSince>September 12, 2003</memberSince>
+	<steamRating>10</steamRating>
+	<hoursPlayed2Wk>50.7</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[Bellevue, Washington, United States]]></location>
+	<realname><![CDATA[Robin Walker]]></realname>
+	<summary><![CDATA[No information given.<br />]]></summary>
+ 	<mostPlayedGames>
+		<mostPlayedGame>
+			<gameName><![CDATA[The Settlers 7: Paths to a Kingdom]]></gameName>
+			<gameLink><![CDATA[http://store.steampowered.com/app/48120]]></gameLink>
+			<gameIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/48120/3f1d95fb31ce54122359ec5b872aa5532a0db902.jpg]]></gameIcon>
+			<gameLogo><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/48120/93dc79736017a4c3532c1cbfcefacc09b8462736.jpg]]></gameLogo>
+			<gameLogoSmall><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/48120/93dc79736017a4c3532c1cbfcefacc09b8462736_thumb.jpg]]></gameLogoSmall>
+			<hoursPlayed>23.9</hoursPlayed>
+			<hoursOnRecord>24.1</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Blood Bowl: Legendary Edition]]></gameName>
+			<gameLink><![CDATA[http://store.steampowered.com/app/58520]]></gameLink>
+			<gameIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/58520/8f68f4c6fb699d0ab1b7993d728f82d01c9fa433.jpg]]></gameIcon>
+			<gameLogo><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/58520/b886e4a3c3ff13adc83dd7cc5ffe2711eecf36b1.jpg]]></gameLogo>
+			<gameLogoSmall><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/58520/b886e4a3c3ff13adc83dd7cc5ffe2711eecf36b1_thumb.jpg]]></gameLogoSmall>
+			<hoursPlayed>17.6</hoursPlayed>
+			<hoursOnRecord>41.9</hoursOnRecord>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Team Fortress 2]]></gameName>
+			<gameLink><![CDATA[http://store.steampowered.com/app/440]]></gameLink>
+			<gameIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/440/e3f595a92552da3d664ad00277fad2107345f743.jpg]]></gameIcon>
+			<gameLogo><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/440/07385eb55b5ba974aebbe74d3c99626bda7920b8.jpg]]></gameLogo>
+			<gameLogoSmall><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/440/07385eb55b5ba974aebbe74d3c99626bda7920b8_thumb.jpg]]></gameLogoSmall>
+			<hoursPlayed>6.5</hoursPlayed>
+			<hoursOnRecord>163.7</hoursOnRecord>
+			<statsName><![CDATA[TF2]]></statsName>
+		</mostPlayedGame>
+	</mostPlayedGames>
+
+	<friends>
+		<friend>
+			<steamID64>76561197960323774</steamID64>
+			<steamID><![CDATA[[PCG] Buck Sexmasington]]></steamID>
+			<customURL><![CDATA[evilkenevil]]></customURL>
+			<onlineState>in-game</onlineState>
+			<stateMessage><![CDATA[In-Game<br />Team Fortress 2 - <a href="steam://connect/80.172.230.146:27515">Join</a>]]></stateMessage>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f1/f14a1a89f9ddddf64d0e1de53d255e15b3c4f53d.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f1/f14a1a89f9ddddf64d0e1de53d255e15b3c4f53d_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f1/f14a1a89f9ddddf64d0e1de53d255e15b3c4f53d_full.jpg]]></avatarFull>
+			<friendsSince><![CDATA[0]]></friendsSince>
+		</friend>
+		<friend>
+			<steamID64>76561197962868341</steamID64>
+			<steamID><![CDATA[compton]]></steamID>
+			<customURL><![CDATA[tmkn]]></customURL>
+			<onlineState>in-game</onlineState>
+			<stateMessage><![CDATA[In-Game<br />Team Fortress 2 - <a href="steam://connect/81.19.221.204:27019">Join</a>]]></stateMessage>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/7d/7d375df193526bbd9604fdbb287537db5da74db8.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/7d/7d375df193526bbd9604fdbb287537db5da74db8_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/7d/7d375df193526bbd9604fdbb287537db5da74db8_full.jpg]]></avatarFull>
+			<friendsSince><![CDATA[1280805697]]></friendsSince>
+		</friend>
+		<friend>
+			<steamID64>76561197992459511</steamID64>
+			<steamID><![CDATA[dunc]]></steamID>
+			<customURL><![CDATA[duncs]]></customURL>
+			<onlineState>in-game</onlineState>
+			<stateMessage><![CDATA[In-Game<br />Dragon Age: Origins]]></stateMessage>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f7/f7edf3312ee41a8fa673833a46311a238552facc.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f7/f7edf3312ee41a8fa673833a46311a238552facc_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f7/f7edf3312ee41a8fa673833a46311a238552facc_full.jpg]]></avatarFull>
+			<friendsSince><![CDATA[1291491332]]></friendsSince>
+		</friend>
+		<friend>
+			<steamID64>76561197974777179</steamID64>
+			<steamID><![CDATA[Epsilon Extremer]]></steamID>
+			<customURL><![CDATA[extremer]]></customURL>
+			<onlineState>in-game</onlineState>
+			<stateMessage><![CDATA[In-Game<br />Team Fortress 2 - <a href="steam://connect/188.165.226.117:27030">Join</a>]]></stateMessage>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/fc/fcacd940f7377cf07f8ec3bfe3cd25f50a853da3.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/fc/fcacd940f7377cf07f8ec3bfe3cd25f50a853da3_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/fc/fcacd940f7377cf07f8ec3bfe3cd25f50a853da3_full.jpg]]></avatarFull>
+			<friendsSince><![CDATA[1289893342]]></friendsSince>
+		</friend>
+		<friend>
+			<steamID64>76561197994242870</steamID64>
+			<steamID><![CDATA[fLame]]></steamID>
+			<customURL><![CDATA[flm-]]></customURL>
+			<onlineState>in-game</onlineState>
+			<stateMessage><![CDATA[In-Game<br />Team Fortress 2 - <a href="steam://connect/207.210.254.132:27015">Join</a>]]></stateMessage>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/60/6087a0a8cf2a9437c2cb865f84a27f31e92297fd.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/60/6087a0a8cf2a9437c2cb865f84a27f31e92297fd_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/60/6087a0a8cf2a9437c2cb865f84a27f31e92297fd_full.jpg]]></avatarFull>
+			<friendsSince><![CDATA[1263011655]]></friendsSince>
+		</friend>
+		<friend>
+			<steamID64>76561197961567067</steamID64>
+			<steamID><![CDATA[G-Mang]]></steamID>
+			<customURL><![CDATA[g-mang]]></customURL>
+			<onlineState>in-game</onlineState>
+			<stateMessage><![CDATA[In-Game<br />Team Fortress 2 - <a href="steam://connect/81.19.209.142:27016">Join</a>]]></stateMessage>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/c3/c3e2806249ea4422466831de44a2791e867eb8ff.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/c3/c3e2806249ea4422466831de44a2791e867eb8ff_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/c3/c3e2806249ea4422466831de44a2791e867eb8ff_full.jpg]]></avatarFull>
+			<friendsSince><![CDATA[1280805626]]></friendsSince>
+		</friend>
+	</friends>
+
+
+	<groups>
+		<group isPrimary="1">
+			<groupID64>103582791429521412</groupID64>
+			<groupName><![CDATA[Valve]]></groupName>
+			<groupURL><![CDATA[Valve]]></groupURL>
+			<headline><![CDATA[VALVE]]></headline>
+			<summary><![CDATA[This is the Valve group.]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/1d/1d8baf5a2b5968ae5ca65d7a971c02e222c9a17e.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/1d/1d8baf5a2b5968ae5ca65d7a971c02e222c9a17e_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/1d/1d8baf5a2b5968ae5ca65d7a971c02e222c9a17e_full.jpg]]></avatarFull>
+			<memberCount>193</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>7</membersInGame>
+			<membersOnline>44</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791429521478</groupID64>
+			<groupName><![CDATA[DotA]]></groupName>
+			<groupURL><![CDATA[DotA]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/ad/ad587614ab33f6cd96b24f7959dd1a21920f352e.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/ad/ad587614ab33f6cd96b24f7959dd1a21920f352e_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/ad/ad587614ab33f6cd96b24f7959dd1a21920f352e_full.jpg]]></avatarFull>
+			<memberCount>16</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>0</membersInGame>
+			<membersOnline>1</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791429521536</groupID64>
+			<groupName><![CDATA[Shacknews]]></groupName>
+			<groupURL><![CDATA[shacknews]]></groupURL>
+			<headline><![CDATA[Still gets you chicks.]]></headline>
+			<summary><![CDATA[Shacknews is a shack with news about gaming.]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/30/30aa9951d11bab6d7c9cdda2eb155a6ce6643b2e.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/30/30aa9951d11bab6d7c9cdda2eb155a6ce6643b2e_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/30/30aa9951d11bab6d7c9cdda2eb155a6ce6643b2e_full.jpg]]></avatarFull>
+			<memberCount>1894</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>85</membersInGame>
+			<membersOnline>691</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791429521744</groupID64>
+			<groupName><![CDATA[TEAM ROOMBA]]></groupName>
+			<groupURL><![CDATA[ROOMBA]]></groupURL>
+			<headline><![CDATA[isn't a]]></headline>
+			<summary><![CDATA[IF A MAN SAY, I LOVE GOD, AND HATETH HIS BROTHER, HE IS A LIAR: FOR HE THAT LOVETH NOT HIS BROTHER WHOM HE HATH SEEN, HOW CAN HE LOVE GOD WHOM HE HATH NOT SEEN?<br /><br />- 1 John 4:20]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/fe/fe43628fb3f668eb4862d8ac7f99f27a24304bf5.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/fe/fe43628fb3f668eb4862d8ac7f99f27a24304bf5_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/fe/fe43628fb3f668eb4862d8ac7f99f27a24304bf5_full.jpg]]></avatarFull>
+			<memberCount>45</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>2</membersInGame>
+			<membersOnline>17</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791429522030</groupID64>
+			<groupName><![CDATA[melbquake]]></groupName>
+			<groupURL><![CDATA[melbquake]]></groupURL>
+			<headline><![CDATA[Playing L4D]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/d9/d9c946a65d19b352f38e0861a36967e5935f319f.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/d9/d9c946a65d19b352f38e0861a36967e5935f319f_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/d9/d9c946a65d19b352f38e0861a36967e5935f319f_full.jpg]]></avatarFull>
+			<memberCount>31</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>0</membersInGame>
+			<membersOnline>9</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791429522551</groupID64>
+			<groupName><![CDATA[ozfortress]]></groupName>
+			<groupURL><![CDATA[ozfortress]]></groupURL>
+			<headline><![CDATA[Australian Team Fortress :: Since 2001]]></headline>
+			<summary><![CDATA[Team Fortress done community ...2!<br /><br />We host over 60Gb of user generated content (including over 1500 maps) for all team fortress games!<br /><br />Being a community driven site, rather than being run by a corporation, we believe we can deliver a better experience.<br /><br />Now Showing: <br />- OWL: The ozfortress winter league series - featuring 32 teams across 4 divisions, with over 350 players!<br />- OZFL: The ozfortress league - featuring 35 teams with over 400 players!<br /><br />Coming Soon: Ladders and Leagues to quench all your Fortress needs! We create ladders that suit the desires of our members, rather than what suits us. If you have any desires or requests for a league or a ladder - Please let us know about it. We're all ears.<br /><br />Jump on irc! irc.gamesurge.net #ozfortress]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/fd/fd930f37e23747ecc803c05ab2bf958fc8c836e6.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/fd/fd930f37e23747ecc803c05ab2bf958fc8c836e6_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/fd/fd930f37e23747ecc803c05ab2bf958fc8c836e6_full.jpg]]></avatarFull>
+			<memberCount>1131</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>24</membersInGame>
+			<membersOnline>180</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791429523220</groupID64>
+			<groupName><![CDATA[POE]]></groupName>
+			<groupURL><![CDATA[poe]]></groupURL>
+			<headline><![CDATA[POE]]></headline>
+			<summary><![CDATA[Oolong painting by Dan Lacey.]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/34/341e76aeabe835434f2167aa58975c7e0183ca96.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/34/341e76aeabe835434f2167aa58975c7e0183ca96_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/34/341e76aeabe835434f2167aa58975c7e0183ca96_full.jpg]]></avatarFull>
+			<memberCount>473</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>26</membersInGame>
+			<membersOnline>163</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791429529819</groupID64>
+			<groupName><![CDATA[Australian Gamers]]></groupName>
+			<groupURL><![CDATA[AU]]></groupURL>
+			<headline><![CDATA[Australia's Gamers [AU]]]></headline>
+			<summary><![CDATA[Welcome to the Australian Gamers Steam Community Group. Home to Gamers from all over Australia.<br /><br />--<br />Are you an Australian Gamer?<br /><br />* Everyone Has Access To Invite Their Friends!]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/67/67814739468658d64d0d2d43b4e90eb705612f29.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/67/67814739468658d64d0d2d43b4e90eb705612f29_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/67/67814739468658d64d0d2d43b4e90eb705612f29_full.jpg]]></avatarFull>
+			<memberCount>8787</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>169</membersInGame>
+			<membersOnline>806</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791429554866</groupID64>
+			<groupName><![CDATA[The Chaos Engine]]></groupName>
+			<groupURL><![CDATA[thechaosengine]]></groupURL>
+			<headline><![CDATA[Chaos In The Games Industry]]></headline>
+			<summary><![CDATA[Vile and Depraved]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/c8/c8d088d4bf8f9cae1e291b016af84e34e8600606.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/c8/c8d088d4bf8f9cae1e291b016af84e34e8600606_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/c8/c8d088d4bf8f9cae1e291b016af84e34e8600606_full.jpg]]></avatarFull>
+			<memberCount>81</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>4</membersInGame>
+			<membersOnline>20</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791429579911</groupID64>
+			<groupName><![CDATA[PowerPlay]]></groupName>
+			<groupURL><![CDATA[powerplay]]></groupURL>
+			<headline><![CDATA[Making your 56k modem feel like a LAN party!]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/8e/8e4c4163721be661f81844a16294625541119b36.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/8e/8e4c4163721be661f81844a16294625541119b36_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/8e/8e4c4163721be661f81844a16294625541119b36_full.jpg]]></avatarFull>
+			<memberCount>16</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>0</membersInGame>
+			<membersOnline>3</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791429625650</groupID64>
+			<groupName><![CDATA[TF2 Studio Rumble 2007]]></groupName>
+			<groupURL><![CDATA[studiorumble]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[This group is for the Studio Rumble community, a group of game developers and friends that enjoy making and playing games of all types.]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/6e/6efb5b7eefc7419a7eb05a7ed0ded1117595388a.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/6e/6efb5b7eefc7419a7eb05a7ed0ded1117595388a_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/6e/6efb5b7eefc7419a7eb05a7ed0ded1117595388a_full.jpg]]></avatarFull>
+			<memberCount>805</memberCount>
+			<membersInChat>15</membersInChat>
+			<membersInGame>20</membersInGame>
+			<membersOnline>265</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791429634281</groupID64>
+			<groupName><![CDATA[uberchargednet]]></groupName>
+			<groupURL><![CDATA[uberchargednet]]></groupURL>
+			<headline><![CDATA[Tales of Team Fortress 2 pwnage and other hilarity]]></headline>
+			<summary><![CDATA[Anyone vaguely with anything to do with www.ubercharged.net - or even anyone who has read the site. We're not picky.]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/80/8026cfe111e63ff1cf8dde0cf03dd1c7a98752e5.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/80/8026cfe111e63ff1cf8dde0cf03dd1c7a98752e5_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/80/8026cfe111e63ff1cf8dde0cf03dd1c7a98752e5_full.jpg]]></avatarFull>
+			<memberCount>1060</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>115</membersInGame>
+			<membersOnline>389</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791429806569</groupID64>
+			<groupName><![CDATA[Game.Developers]]></groupName>
+			<groupURL><![CDATA[GDevs]]></groupURL>
+			<headline><![CDATA[If you have anything to do with making games, then this is the group for you.]]></headline>
+			<summary><![CDATA[This group is for Game Developers, Programmers, Mod-Makers, 3D Modelers, Game Artists, Level Designers and so on. Once in the group you have the ability to group up with other developers and play games, or you could just chat with eachother.]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f6/f6ff4de08bae46136738a09f8a059855f395c7c9.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f6/f6ff4de08bae46136738a09f8a059855f395c7c9_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f6/f6ff4de08bae46136738a09f8a059855f395c7c9_full.jpg]]></avatarFull>
+			<memberCount>851</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>29</membersInGame>
+			<membersOnline>294</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791430033945</groupID64>
+			<groupName><![CDATA[It's Called DotA, Bitches]]></groupName>
+			<groupURL><![CDATA[itscalleddota]]></groupURL>
+			<headline><![CDATA[Because it had to happen...]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg]]></avatarFull>
+			<memberCount>19</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>1</membersInGame>
+			<membersOnline>7</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791430120983</groupID64>
+			<groupName><![CDATA[Mutual Admiration and/or Loathing Society]]></groupName>
+			<groupURL><![CDATA[maaols]]></groupURL>
+			<headline><![CDATA[Friends don't let other friends bother the witch.]]></headline>
+			<summary><![CDATA[Founded in the sleepy burg of Microsomnesia in 1864, the Mutual Admiration and/or Loathing Society has yet to be annexed by any recognized world government.  So there is time yet to caper worthlessly beneath the notice of whatever calls itself a god in this corner of the universe.]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/d9/d93a82619f70d3c843191661556c58b0a57b1788.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/d9/d93a82619f70d3c843191661556c58b0a57b1788_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/d9/d93a82619f70d3c843191661556c58b0a57b1788_full.jpg]]></avatarFull>
+			<memberCount>15</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>0</membersInGame>
+			<membersOnline>2</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791430563353</groupID64>
+			<groupName><![CDATA[TF2 Beta]]></groupName>
+			<groupURL><![CDATA[tf2beta2]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/88/88f3462bb095d443c8f7f8eb6a305b23728aa0df.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/88/88f3462bb095d443c8f7f8eb6a305b23728aa0df_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/88/88f3462bb095d443c8f7f8eb6a305b23728aa0df_full.jpg]]></avatarFull>
+			<memberCount>91</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>14</membersInGame>
+			<membersOnline>44</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791430619296</groupID64>
+			<groupName><![CDATA[Australian Game Devs]]></groupName>
+			<groupURL><![CDATA[AGDevs]]></groupURL>
+			<headline><![CDATA[TF2 Group for Australian Game Developers]]></headline>
+			<summary><![CDATA[Get to know other Australian game devs while shooting them in the face!]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/ea/eab289ec36ea82c580bc2bd1e011d7d64c087153.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/ea/eab289ec36ea82c580bc2bd1e011d7d64c087153_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/ea/eab289ec36ea82c580bc2bd1e011d7d64c087153_full.jpg]]></avatarFull>
+			<memberCount>158</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>1</membersInGame>
+			<membersOnline>13</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791430624706</groupID64>
+			<groupName><![CDATA[Torn Productions]]></groupName>
+			<groupURL><![CDATA[tornproductions]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[E-Sports Media Production Group<br /><br />www.tornproductions.org<br />irc.gamesurge.net #tornproductions]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/8f/8fd648ff999171cbb0abbccf89bc1a931bc67f08.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/8f/8fd648ff999171cbb0abbccf89bc1a931bc67f08_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/8f/8fd648ff999171cbb0abbccf89bc1a931bc67f08_full.jpg]]></avatarFull>
+			<memberCount>332</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>34</membersInGame>
+			<membersOnline>153</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791430970212</groupID64>
+			<groupName><![CDATA[Epic StudioRumble PAX ROAD TRIP]]></groupName>
+			<groupURL><![CDATA[paxroadtrip]]></groupURL>
+			<headline><![CDATA[ROoooad Trip to PAX, lets go Rumblers, whos down?!  Sept 3rd - 5th]]></headline>
+			<summary><![CDATA[Oh yes.. it begins..<br /><br />         ... details to follow....<br /><br />]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/c5/c581f098b1d08d992ed71b54e7dc20ac69e830eb.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/c5/c581f098b1d08d992ed71b54e7dc20ac69e830eb_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/c5/c581f098b1d08d992ed71b54e7dc20ac69e830eb_full.jpg]]></avatarFull>
+			<memberCount>28</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>0</membersInGame>
+			<membersOnline>7</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791431175381</groupID64>
+			<groupName><![CDATA[eXtelevision LLC.]]></groupName>
+			<groupURL><![CDATA[eXtv]]></groupURL>
+			<headline><![CDATA[eXtelevision LLC. eSport recaps]]></headline>
+			<summary><![CDATA[Yaaaaooooooooooo!<br /><br />Website going live sooon. More big things coming. Tell your friends to join to hear all our news.]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/67/67a7e3909ed560be67ddbda79c36f0cfef833a1d.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/67/67a7e3909ed560be67ddbda79c36f0cfef833a1d_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/67/67a7e3909ed560be67ddbda79c36f0cfef833a1d_full.jpg]]></avatarFull>
+			<memberCount>364</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>77</membersInGame>
+			<membersOnline>203</membersOnline>
+		</group>
+	</groups>
+	<favoriteGame>
+		<link><![CDATA[http://store.steampowered.com/app/4000]]></link>
+		<logo><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/4000/dca12980667e32ab072d79f5dbe91884056a03a2.jpg]]></logo>
+		<name><![CDATA[Garry's Mod]]></name>
+		<hoursPlayed2wk>0</hoursPlayed2wk>
+	</favoriteGame>
+</profile>

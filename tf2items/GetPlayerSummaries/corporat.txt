@@ -1,0 +1,25 @@
+{
+	"response": {
+		"players": {
+			"player": [
+				{
+					"steamid": "76561197990946434",
+					"communityvisibilitystate": 3,
+					"profilestate": 1,
+					"personaname": "Corporat",
+					"lastlogoff": 1333521897,
+					"profileurl": "http:\/\/steamcommunity.com\/id\/corporat\/",
+					"avatar": "http:\/\/media.steampowered.com\/steamcommunity\/public\/images\/avatars\/e8\/e8e9609553df25fc7d058f808b0532d2853ff3a4.jpg",
+					"avatarmedium": "http:\/\/media.steampowered.com\/steamcommunity\/public\/images\/avatars\/e8\/e8e9609553df25fc7d058f808b0532d2853ff3a4_medium.jpg",
+					"avatarfull": "http:\/\/media.steampowered.com\/steamcommunity\/public\/images\/avatars\/e8\/e8e9609553df25fc7d058f808b0532d2853ff3a4_full.jpg",
+					"personastate": 1,
+					"realname": "Anthony R",
+					"primaryclanid": "103582791430201611",
+					"timecreated": 1183326392,
+					"loccountrycode": "US",
+					"locstatecode": "NJ"
+				}
+			]
+		}
+	}
+}

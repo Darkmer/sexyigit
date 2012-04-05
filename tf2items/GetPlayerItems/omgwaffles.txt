@@ -1,0 +1,120 @@
+{
+	"result": {
+		"status": 1,
+		"num_backpack_slots": 50,
+		"items": {
+			"item": [
+				{
+					"id": 45512150,
+					"original_id": 45512150,
+					"defindex": 126,
+					"level": 10,
+					"quality": 6,
+					"inventory": 2152464385,
+					"quantity": 1
+				},
+				{
+					"id": 115443222,
+					"original_id": 115443222,
+					"defindex": 189,
+					"level": 20,
+					"quality": 6,
+					"inventory": 2147483654,
+					"quantity": 1
+				},
+				{
+					"id": 155146412,
+					"original_id": 155146412,
+					"defindex": 264,
+					"level": 5,
+					"quality": 6,
+					"inventory": 2147745794,
+					"quantity": 1
+				},
+				{
+					"id": 155146413,
+					"original_id": 155146413,
+					"defindex": 263,
+					"level": 10,
+					"quality": 6,
+					"inventory": 2149646340,
+					"quantity": 1
+				},
+				{
+					"id": 327602737,
+					"original_id": 327602737,
+					"defindex": 166,
+					"level": 5,
+					"quality": 6,
+					"inventory": 2147483651,
+					"quantity": 1,
+					"flag_cannot_trade": true,
+					"attributes": {
+						"attribute": [
+							{
+								"defindex": 143,
+								"value": 1261075140,
+								"float_value": 11172548.000000
+							}
+						]
+					}
+				},
+				{
+					"id": 327602756,
+					"original_id": 327602756,
+					"defindex": 299,
+					"level": 20,
+					"quality": 1,
+					"inventory": 2154627077,
+					"quantity": 1
+				},
+				{
+					"id": 550270141,
+					"original_id": 550270141,
+					"defindex": 577,
+					"level": 1,
+					"quality": 6,
+					"inventory": 2147483655,
+					"quantity": 1,
+					"flag_cannot_trade": true
+				},
+				{
+					"id": 571940797,
+					"original_id": 571940797,
+					"defindex": 307,
+					"level": 10,
+					"quality": 6,
+					"inventory": 2147483656,
+					"quantity": 1
+				},
+				{
+					"id": 571972787,
+					"original_id": 571972787,
+					"defindex": 311,
+					"level": 1,
+					"quality": 6,
+					"inventory": 2147483657,
+					"quantity": 1
+				},
+				{
+					"id": 765816016,
+					"original_id": 765816016,
+					"defindex": 215,
+					"level": 10,
+					"quality": 6,
+					"inventory": 2147483658,
+					"quantity": 1
+				},
+				{
+					"id": 765861962,
+					"original_id": 765861962,
+					"defindex": 128,
+					"level": 10,
+					"quality": 6,
+					"inventory": 2147483659,
+					"quantity": 1
+				}
+			]
+		}
+	}
+}

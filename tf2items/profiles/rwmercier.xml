@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561198000261378</steamID64>
+	<steamID><![CDATA[[!?] A.C.E {TS}]]></steamID>
+	<onlineState>in-game</onlineState>
+	<stateMessage><![CDATA[In-Game<br />Team Fortress 2 - <a href="steam://connect/207.210.254.132:27015">Join</a>]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/91/910f5126560d39b1baade4a85ab88a351966c82b.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/91/910f5126560d39b1baade4a85ab88a351966c82b_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/91/910f5126560d39b1baade4a85ab88a351966c82b_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[rwmercier]]></customURL>
+	<inGameServerIP>207.210.254.132:27015</inGameServerIP>
+	<inGameInfo>
+		<gameName><![CDATA[Team Fortress 2]]></gameName>
+		<gameLink><![CDATA[http://store.steampowered.com/app/440]]></gameLink>
+		<gameIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/440/e3f595a92552da3d664ad00277fad2107345f743.jpg]]></gameIcon>
+		<gameLogo><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/440/07385eb55b5ba974aebbe74d3c99626bda7920b8.jpg]]></gameLogo>
+		<gameLogoSmall><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/440/07385eb55b5ba974aebbe74d3c99626bda7920b8_thumb.jpg]]></gameLogoSmall>
+		<gameJoinLink><![CDATA[steam://connect/207.210.254.132:27015]]></gameJoinLink>
+	</inGameInfo>
+	<memberSince>July 30, 2008</memberSince>
+	<steamRating>10</steamRating>
+	<hoursPlayed2Wk>33.3</hoursPlayed2Wk>
+	<headline><![CDATA[Hello, Hello!]]></headline>
+	<location><![CDATA[United States]]></location>
+	<realname><![CDATA[]]></realname>
+	<summary><![CDATA[&lt;3]]></summary>
+ 	<mostPlayedGames>
+		<mostPlayedGame>
+			<gameName><![CDATA[Team Fortress 2]]></gameName>
+			<gameLink><![CDATA[http://store.steampowered.com/app/440]]></gameLink>
+			<gameIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/440/e3f595a92552da3d664ad00277fad2107345f743.jpg]]></gameIcon>
+			<gameLogo><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/440/07385eb55b5ba974aebbe74d3c99626bda7920b8.jpg]]></gameLogo>
+			<gameLogoSmall><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/440/07385eb55b5ba974aebbe74d3c99626bda7920b8_thumb.jpg]]></gameLogoSmall>
+			<hoursPlayed>27.9</hoursPlayed>
+			<hoursOnRecord>2766.9</hoursOnRecord>
+			<statsName><![CDATA[TF2]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Poker Night at the Inventory]]></gameName>
+			<gameLink><![CDATA[http://store.steampowered.com/app/31280]]></gameLink>
+			<gameIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/31280/7d50bd1f5e7cfe68397e9ca0041836ad18153dfb.jpg]]></gameIcon>
+			<gameLogo><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/31280/d962cde096bca06ee10d09880e9f3d6257941161.jpg]]></gameLogo>
+			<gameLogoSmall><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/31280/d962cde096bca06ee10d09880e9f3d6257941161_thumb.jpg]]></gameLogoSmall>
+			<hoursPlayed>5</hoursPlayed>
+			<hoursOnRecord>5</hoursOnRecord>
+			<statsName><![CDATA[PokerNight]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Left 4 Dead 2]]></gameName>
+			<gameLink><![CDATA[http://store.steampowered.com/app/550]]></gameLink>
+			<gameIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/550/7d5a243f9500d2f8467312822f8af2a2928777ed.jpg]]></gameIcon>
+			<gameLogo><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/550/205863cc21e751a576d6fff851984b3170684142.jpg]]></gameLogo>
+			<gameLogoSmall><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/550/205863cc21e751a576d6fff851984b3170684142_thumb.jpg]]></gameLogoSmall>
+			<hoursPlayed>0.4</hoursPlayed>
+			<hoursOnRecord>49.2</hoursOnRecord>
+			<statsName><![CDATA[L4D2]]></statsName>
+		</mostPlayedGame>
+	</mostPlayedGames>
+
+	<friends>
+		<friend>
+			<steamID64>76561197984758049</steamID64>
+			<steamID><![CDATA[&gt;f7&gt; Duffers]]></steamID>
+			<customURL><![CDATA[duffedwaffe]]></customURL>
+			<onlineState>in-game</onlineState>
+			<stateMessage><![CDATA[In-Game<br />Call of Duty: Black Ops - Mult...]]></stateMessage>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/56/56f7b190aa5acf5ace2b30c053d2c75f226774f1.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/56/56f7b190aa5acf5ace2b30c053d2c75f226774f1_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/56/56f7b190aa5acf5ace2b30c053d2c75f226774f1_full.jpg]]></avatarFull>
+			<friendsSince><![CDATA[1256672632]]></friendsSince>
+		</friend>
+		<friend>
+			<steamID64>76561197987806981</steamID64>
+			<steamID><![CDATA[[!?] Rcraft {APH}]]></steamID>
+			<customURL><![CDATA[Rcraft]]></customURL>
+			<onlineState>in-game</onlineState>
+			<stateMessage><![CDATA[In-Game<br />Super Meat Boy]]></stateMessage>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/5c/5c3327638bb35b980bb33506d55cbd0734838b6c.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/5c/5c3327638bb35b980bb33506d55cbd0734838b6c_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/5c/5c3327638bb35b980bb33506d55cbd0734838b6c_full.jpg]]></avatarFull>
+			<friendsSince><![CDATA[1228265111]]></friendsSince>
+		</friend>
+		<friend>
+			<steamID64>76561198001020682</steamID64>
+			<steamID><![CDATA[[!?] Sassycat]]></steamID>
+			<customURL><![CDATA[]]></customURL>
+			<onlineState>in-game</onlineState>
+			<stateMessage><![CDATA[In-Game<br />Call of Duty: Black Ops - Mult...]]></stateMessage>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/33/333e91a2d50204fff345dbff54dbaee5a12fa1d1.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/33/333e91a2d50204fff345dbff54dbaee5a12fa1d1_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/33/333e91a2d50204fff345dbff54dbaee5a12fa1d1_full.jpg]]></avatarFull>
+			<friendsSince><![CDATA[1237773371]]></friendsSince>
+		</friend>
+		<friend>
+			<steamID64>76561197995490909</steamID64>
+			<steamID><![CDATA[[!?]SnowFlakes]]></steamID>
+			<customURL><![CDATA[FrostyFlakes]]></customURL>
+			<onlineState>in-game</onlineState>
+			<stateMessage><![CDATA[In-Game<br />Fallout: New Vegas]]></stateMessage>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/b3/b355398501a739dfdec21a447c123dcfa5fb580a.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/b3/b355398501a739dfdec21a447c123dcfa5fb580a_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/b3/b355398501a739dfdec21a447c123dcfa5fb580a_full.jpg]]></avatarFull>
+			<friendsSince><![CDATA[1277342890]]></friendsSince>
+		</friend>
+		<friend>
+			<steamID64>76561198026568310</steamID64>
+			<steamID><![CDATA[Inzanedude]]></steamID>
+			<customURL><![CDATA[]]></customURL>
+			<onlineState>in-game</onlineState>
+			<stateMessage><![CDATA[In-Game<br />Team Fortress 2 - <a href="steam://connect/96.31.88.141:27015">Join</a>]]></stateMessage>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f4/f4b9a1bf98fe65b7ea2800d7d5adac5463535666.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f4/f4b9a1bf98fe65b7ea2800d7d5adac5463535666_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f4/f4b9a1bf98fe65b7ea2800d7d5adac5463535666_full.jpg]]></avatarFull>
+			<friendsSince><![CDATA[1287188394]]></friendsSince>
+		</friend>
+		<friend>
+			<steamID64>76561198001622949</steamID64>
+			<steamID><![CDATA[Mr. Hamster {Happy Yaksmas}]]></steamID>
+			<customURL><![CDATA[repp0c]]></customURL>
+			<onlineState>in-game</onlineState>
+			<stateMessage><![CDATA[In-Game<br />Team Fortress 2 - <a href="steam://connect/192.168.1.107:27015">Join</a>]]></stateMessage>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/fa/fad731e7f3219f67df56b39314325e95bb31658a.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/fa/fad731e7f3219f67df56b39314325e95bb31658a_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/fa/fad731e7f3219f67df56b39314325e95bb31658a_full.jpg]]></avatarFull>
+			<friendsSince><![CDATA[1266974695]]></friendsSince>
+		</friend>
+	</friends>
+
+	<weblinks>
+		<weblink>
+			<link><![CDATA[http://teaminterrobang.com/]]></link>
+			<title><![CDATA[Team Interrobang]]></title>
+		</weblink>
+	</weblinks>
+
+	<groups>
+		<group isPrimary="1">
+			<groupID64>103582791429794430</groupID64>
+			<groupName><![CDATA[Team Interrobang]]></groupName>
+			<groupURL><![CDATA[Interrobang]]></groupURL>
+			<headline><![CDATA[Shenanigans!]]></headline>
+			<summary><![CDATA[This group is for the people who play on our servers. Feel free to join! <br /><br />Membership in this steam group does not mean you have joined the team, or that you can wear the tag although we ask all members to be part of the steam group.<br /><br />Drop by the forums and say hi!]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/82/82428bf6ab4dddd1513cb61dc6183eb5a7a928d9.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/82/82428bf6ab4dddd1513cb61dc6183eb5a7a928d9_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/82/82428bf6ab4dddd1513cb61dc6183eb5a7a928d9_full.jpg]]></avatarFull>
+			<memberCount>777</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>53</membersInGame>
+			<membersOnline>248</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791430075517</groupID64>
+			<groupName><![CDATA[Left 4 Dead]]></groupName>
+			<groupURL><![CDATA[L4D]]></groupURL>
+			<headline><![CDATA[L4D!]]></headline>
+			<summary><![CDATA[Left 4 Dead is a co-op action horror game that casts up to four players in an epic struggle for survival against swarming zombie hordes and terrifying mutant monsters. Created by Valve, creators of Counter-Strike, Team Fortress, and Half-Life.]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/42/428df26bc35b09319e31b1ffb712487b20b3245c.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/42/428df26bc35b09319e31b1ffb712487b20b3245c_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/42/428df26bc35b09319e31b1ffb712487b20b3245c_full.jpg]]></avatarFull>
+			<memberCount>283374</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>14787</membersInGame>
+			<membersOnline>51592</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791430075519</groupID64>
+			<groupName><![CDATA[Team Fortress 2]]></groupName>
+			<groupURL><![CDATA[TF2]]></groupURL>
+			<headline><![CDATA[TF2 in a nutshell]]></headline>
+			<summary><![CDATA[Team Fortress® 2 (TF2) is the sequel to the game that put class-based, multiplayer team warfare on the map. Play as the flame-throwing Pyro, the room clearing Heavy, or the Spy, a master of disguises. Other classes include: Scout, Sniper, Medic, Engineer, Demoman, or Soldier.]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/e3/e3f595a92552da3d664ad00277fad2107345f743.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/e3/e3f595a92552da3d664ad00277fad2107345f743_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/e3/e3f595a92552da3d664ad00277fad2107345f743_full.jpg]]></avatarFull>
+			<memberCount>158249</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>15198</membersInGame>
+			<membersOnline>49904</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791430075529</groupID64>
+			<groupName><![CDATA[Half-Life 2: Episode Two]]></groupName>
+			<groupURL><![CDATA[HL2EP2]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f1/f118f400f3ccd9a8331ea975e8dd8d14584904f3.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f1/f118f400f3ccd9a8331ea975e8dd8d14584904f3_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f1/f118f400f3ccd9a8331ea975e8dd8d14584904f3_full.jpg]]></avatarFull>
+			<memberCount>32593</memberCount>
+			<membersInChat>1</membersInChat>
+			<membersInGame>3125</membersInGame>
+			<membersOnline>9330</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791430124539</groupID64>
+			<groupName><![CDATA[Team Interrobang L4D servers]]></groupName>
+			<groupURL><![CDATA[TI_servers]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[Group for easy access to left 4 dead servers.<br />Invite anybody you think would like to play on the servers]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/ee/ee6fd16ff9b11851ef5383ed4247d36b7be7895d.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/ee/ee6fd16ff9b11851ef5383ed4247d36b7be7895d_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/ee/ee6fd16ff9b11851ef5383ed4247d36b7be7895d_full.jpg]]></avatarFull>
+			<memberCount>130</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>10</membersInGame>
+			<membersOnline>41</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791430531612</groupID64>
+			<groupName><![CDATA[iBattles]]></groupName>
+			<groupURL><![CDATA[iBattles]]></groupURL>
+			<headline><![CDATA[Scrims for the not-so-serious TF2 player!]]></headline>
+			<summary><![CDATA[iBattles are Team Interrobang's pseudosrsbsns PUGs. All are welcome!]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/e1/e12b81899bd8b75c5bc52a8623e722a9e1e09497.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/e1/e12b81899bd8b75c5bc52a8623e722a9e1e09497_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/e1/e12b81899bd8b75c5bc52a8623e722a9e1e09497_full.jpg]]></avatarFull>
+			<memberCount>89</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>8</membersInGame>
+			<membersOnline>41</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791430629506</groupID64>
+			<groupName><![CDATA[{Tunnel Snakes}]]></groupName>
+			<groupURL><![CDATA[tunnelsnakesandyou]]></groupURL>
+			<headline><![CDATA[We're the Tunnel Snakes!]]></headline>
+			<summary><![CDATA[The Tunnel Snakes are Team Interrobang's number one Server Starting Gang. If you wish to roll with the Snakes, then you need to accept two rules.<br /><br />1.) When the Tunnel Snakes call, you must answer! (AKA, when a server needs help starting do your best to fill/start one.<br /><br />2.) When joining a server, make sure to let everyone know (don't mic spam) that "Tunnel Snakes Rule!" <br /><br />3.) When you see any event that is along the lines of "Tunnel Snakes Rule", that means you have to let everyone know in game! Show your support!]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f4/f42bcc52b0d4cbb82979769e059948033d65f5da.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f4/f42bcc52b0d4cbb82979769e059948033d65f5da_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f4/f42bcc52b0d4cbb82979769e059948033d65f5da_full.jpg]]></avatarFull>
+			<memberCount>26</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>4</membersInGame>
+			<membersOnline>10</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791430661210</groupID64>
+			<groupName><![CDATA[Team Interrobang Admins]]></groupName>
+			<groupURL><![CDATA[interrobangadmin]]></groupURL>
+			<headline><![CDATA[For the use of the Team Interrobang Admin Group]]></headline>
+			<summary><![CDATA[Senior Admins and Full Admins use this group for meetings, admin chat, and important internal announcements.]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/cc/cca4ecdd87f27a1de39c55db8c0c0dbba6fe955b.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/cc/cca4ecdd87f27a1de39c55db8c0c0dbba6fe955b_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/cc/cca4ecdd87f27a1de39c55db8c0c0dbba6fe955b_full.jpg]]></avatarFull>
+			<memberCount>19</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>1</membersInGame>
+			<membersOnline>10</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791430762285</groupID64>
+			<groupName><![CDATA[Altitude]]></groupName>
+			<groupURL><![CDATA[altitude]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/91/91bbd5b5ae3a170159beef0dacc1e3cca242c953.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/91/91bbd5b5ae3a170159beef0dacc1e3cca242c953_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/91/91bbd5b5ae3a170159beef0dacc1e3cca242c953_full.jpg]]></avatarFull>
+			<memberCount>11470</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>1066</membersInGame>
+			<membersOnline>4228</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791430936564</groupID64>
+			<groupName><![CDATA[Modest Pile Group]]></groupName>
+			<groupURL><![CDATA[modestpileftw]]></groupURL>
+			<headline><![CDATA[DOOD I HAZ DA MODEST PILE]]></headline>
+			<summary><![CDATA[Modest Pile lookin ass nigga]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f8/f84bf451433fcae8a717fe610b824603192e82f1.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f8/f84bf451433fcae8a717fe610b824603192e82f1_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f8/f84bf451433fcae8a717fe610b824603192e82f1_full.jpg]]></avatarFull>
+			<memberCount>40</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>10</membersInGame>
+			<membersOnline>21</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791431138253</groupID64>
+			<groupName><![CDATA[Shut Up, Shas]]></groupName>
+			<groupURL><![CDATA[shutupshas]]></groupURL>
+			<headline><![CDATA[Shut Up, Shas]]></headline>
+			<summary><![CDATA[We are here to tell Shas to shut up.]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/10/10125bf2593dfb3d94720e04de9f6abf4b5f0a73.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/10/10125bf2593dfb3d94720e04de9f6abf4b5f0a73_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/10/10125bf2593dfb3d94720e04de9f6abf4b5f0a73_full.jpg]]></avatarFull>
+			<memberCount>40</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>4</membersInGame>
+			<membersOnline>26</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791431278110</groupID64>
+			<groupName><![CDATA[ABUSEment Park Highlander team]]></groupName>
+			<groupURL><![CDATA[abusementparkhighlander]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[Team Interrobang's second but best team for the Highlander tourney.]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/ec/ec40dc959c54f067c4f2ceca87a77e7da34fdcf4.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/ec/ec40dc959c54f067c4f2ceca87a77e7da34fdcf4_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/ec/ec40dc959c54f067c4f2ceca87a77e7da34fdcf4_full.jpg]]></avatarFull>
+			<memberCount>12</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>2</membersInGame>
+			<membersOnline>8</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791431322670</groupID64>
+			<groupName><![CDATA[Mystic Meerkats]]></groupName>
+			<groupURL><![CDATA[MysticMeerkats]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg]]></avatarFull>
+			<memberCount>13</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>2</membersInGame>
+			<membersOnline>8</membersOnline>
+		</group>
+	</groups>
+	<favoriteGame>
+		<link><![CDATA[http://store.steampowered.com/app/440]]></link>
+		<logo><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/440/07385eb55b5ba974aebbe74d3c99626bda7920b8.jpg]]></logo>
+		<name><![CDATA[Team Fortress 2]]></name>
+		<hoursPlayed2wk>27.9</hoursPlayed2wk>
+	</favoriteGame>
+</profile>

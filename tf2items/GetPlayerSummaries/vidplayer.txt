@@ -1,0 +1,26 @@
+{
+	"response": {
+		"players": {
+			"player": [
+				{
+					"steamid": "76561198001385526",
+					"communityvisibilitystate": 3,
+					"profilestate": 1,
+					"personaname": "Donovan",
+					"lastlogoff": 1333571033,
+					"commentpermission": 1,
+					"profileurl": "http:\/\/steamcommunity.com\/id\/vidplayer\/",
+					"avatar": "http:\/\/media.steampowered.com\/steamcommunity\/public\/images\/avatars\/29\/29b02229cced633950d67f9036f250aa7325e811.jpg",
+					"avatarmedium": "http:\/\/media.steampowered.com\/steamcommunity\/public\/images\/avatars\/29\/29b02229cced633950d67f9036f250aa7325e811_medium.jpg",
+					"avatarfull": "http:\/\/media.steampowered.com\/steamcommunity\/public\/images\/avatars\/29\/29b02229cced633950d67f9036f250aa7325e811_full.jpg",
+					"personastate": 3,
+					"realname": "Donovan",
+					"primaryclanid": "103582791431307397",
+					"timecreated": 1222019894,
+					"loccountrycode": "US",
+					"locstatecode": "MD"
+				}
+			]
+		}
+	}
+}

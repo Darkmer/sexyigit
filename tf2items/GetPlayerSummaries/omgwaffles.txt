@@ -1,0 +1,24 @@
+{
+	"response": {
+		"players": {
+			"player": [
+				{
+					"steamid": "76561197972220057",
+					"communityvisibilitystate": 3,
+					"profilestate": 1,
+					"personaname": "omg waffles",
+					"lastlogoff": 1333647634,
+					"profileurl": "http:\/\/steamcommunity.com\/id\/omgwaffles\/",
+					"avatar": "http:\/\/media.steampowered.com\/steamcommunity\/public\/images\/avatars\/df\/df580e44db4205b3e0b9c3ea1fee0b6d5956fecf.jpg",
+					"avatarmedium": "http:\/\/media.steampowered.com\/steamcommunity\/public\/images\/avatars\/df\/df580e44db4205b3e0b9c3ea1fee0b6d5956fecf_medium.jpg",
+					"avatarfull": "http:\/\/media.steampowered.com\/steamcommunity\/public\/images\/avatars\/df\/df580e44db4205b3e0b9c3ea1fee0b6d5956fecf_full.jpg",
+					"personastate": 1,
+					"primaryclanid": "103582791431962114",
+					"timecreated": 1103855918,
+					"loccountrycode": "US",
+					"locstatecode": "NJ"
+				}
+			]
+		}
+	}
+}

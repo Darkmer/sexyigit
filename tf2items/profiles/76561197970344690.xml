@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561197970344690</steamID64>
+	<steamID><![CDATA[m00d]]></steamID>
+	<onlineState>offline</onlineState>
+	<stateMessage><![CDATA[Last Online: 6 hrs, 43 mins ago]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/91/916d9a5c74d5864c2acd220b3cea7ef6317d50c7.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/91/916d9a5c74d5864c2acd220b3cea7ef6317d50c7_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/91/916d9a5c74d5864c2acd220b3cea7ef6317d50c7_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[]]></customURL>
+	<memberSince>November 16, 2004</memberSince>
+	<steamRating>3.2</steamRating>
+	<hoursPlayed2Wk>10.2</hoursPlayed2Wk>
+	<headline><![CDATA[mohahaa]]></headline>
+	<location><![CDATA[Sweden]]></location>
+	<realname><![CDATA[johan mod]]></realname>
+	<summary><![CDATA[Växjö, Sweden<br /><br />]]></summary>
+ 	<mostPlayedGames>
+		<mostPlayedGame>
+			<gameName><![CDATA[Left 4 Dead 2]]></gameName>
+			<gameLink><![CDATA[http://store.steampowered.com/app/550]]></gameLink>
+			<gameIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/550/7d5a243f9500d2f8467312822f8af2a2928777ed.jpg]]></gameIcon>
+			<gameLogo><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/550/205863cc21e751a576d6fff851984b3170684142.jpg]]></gameLogo>
+			<gameLogoSmall><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/550/205863cc21e751a576d6fff851984b3170684142_thumb.jpg]]></gameLogoSmall>
+			<hoursPlayed>5.4</hoursPlayed>
+			<hoursOnRecord>82.2</hoursOnRecord>
+			<statsName><![CDATA[L4D2]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Counter-Strike: Source]]></gameName>
+			<gameLink><![CDATA[http://store.steampowered.com/app/240]]></gameLink>
+			<gameIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/240/9052fa60c496a1c03383b27687ec50f4bf0f0e10.jpg]]></gameIcon>
+			<gameLogo><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/240/ee97d0dbf3e5d5d59e69dc20b98ed9dc8cad5283.jpg]]></gameLogo>
+			<gameLogoSmall><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/240/ee97d0dbf3e5d5d59e69dc20b98ed9dc8cad5283_thumb.jpg]]></gameLogoSmall>
+			<hoursPlayed>3.4</hoursPlayed>
+			<hoursOnRecord>48.7</hoursOnRecord>
+			<statsName><![CDATA[CS:S]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Call of Duty: Modern Warfare 2]]></gameName>
+			<gameLink><![CDATA[http://store.steampowered.com/app/10180]]></gameLink>
+			<gameIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/10180/ad502494f1658220f9166c7e17ac90422bf6a479.jpg]]></gameIcon>
+			<gameLogo><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/10180/82de30354cb5ee352609c47ea47b86797008e436.jpg]]></gameLogo>
+			<gameLogoSmall><![CDATA[http://media.steampowered.com/steamcommunity/public/images/apps/10180/82de30354cb5ee352609c47ea47b86797008e436_thumb.jpg]]></gameLogoSmall>
+			<hoursPlayed>0.8</hoursPlayed>
+			<hoursOnRecord>13.9</hoursOnRecord>
+			<statsName><![CDATA[ModernWarfare2]]></statsName>
+		</mostPlayedGame>
+	</mostPlayedGames>
+
+	<friends>
+		<friend>
+			<steamID64>76561198004579013</steamID64>
+			<steamID><![CDATA[sgt rock]]></steamID>
+			<customURL><![CDATA[]]></customURL>
+			<onlineState>in-game</onlineState>
+			<stateMessage><![CDATA[In-Game<br />Call of Duty: Black Ops - Mult...]]></stateMessage>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg]]></avatarFull>
+			<friendsSince><![CDATA[1234816723]]></friendsSince>
+		</friend>
+		<friend>
+			<steamID64>76561197998716356</steamID64>
+			<steamID><![CDATA[=MUPP= Flisan]]></steamID>
+			<customURL><![CDATA[flisanrules]]></customURL>
+			<onlineState>online</onlineState>
+			<stateMessage><![CDATA[Online]]></stateMessage>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/d0/d083bb558bc707fef08133a35161e911f1b17d0c.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/d0/d083bb558bc707fef08133a35161e911f1b17d0c_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/d0/d083bb558bc707fef08133a35161e911f1b17d0c_full.jpg]]></avatarFull>
+			<friendsSince><![CDATA[0]]></friendsSince>
+		</friend>
+		<friend>
+			<steamID64>76561197974160570</steamID64>
+			<steamID><![CDATA[[SweT]Dewwa]]></steamID>
+			<customURL><![CDATA[]]></customURL>
+			<onlineState>online</onlineState>
+			<stateMessage><![CDATA[Online]]></stateMessage>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/de/de21840d36df667eab53343dfde402ecc671e978.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/de/de21840d36df667eab53343dfde402ecc671e978_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/de/de21840d36df667eab53343dfde402ecc671e978_full.jpg]]></avatarFull>
+			<friendsSince><![CDATA[1271362694]]></friendsSince>
+		</friend>
+		<friend>
+			<steamID64>76561197960281482</steamID64>
+			<steamID><![CDATA[at | Led]]></steamID>
+			<customURL><![CDATA[led]]></customURL>
+			<onlineState>online</onlineState>
+			<stateMessage><![CDATA[Online]]></stateMessage>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/14/14cef84d6956d5ac444b3f129632bdc8c16e6448.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/14/14cef84d6956d5ac444b3f129632bdc8c16e6448_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/14/14cef84d6956d5ac444b3f129632bdc8c16e6448_full.jpg]]></avatarFull>
+			<friendsSince><![CDATA[0]]></friendsSince>
+		</friend>
+		<friend>
+			<steamID64>76561197976056569</steamID64>
+			<steamID><![CDATA[Cartek]]></steamID>
+			<customURL><![CDATA[cartek]]></customURL>
+			<onlineState>online</onlineState>
+			<stateMessage><![CDATA[Online]]></stateMessage>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/7d/7dd8d610089f96f447bcdc4cf251c56df477c597.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/7d/7dd8d610089f96f447bcdc4cf251c56df477c597_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/7d/7dd8d610089f96f447bcdc4cf251c56df477c597_full.jpg]]></avatarFull>
+			<friendsSince><![CDATA[0]]></friendsSince>
+		</friend>
+		<friend>
+			<steamID64>76561197970589449</steamID64>
+			<steamID><![CDATA[eXp | Ran]]></steamID>
+			<customURL><![CDATA[]]></customURL>
+			<onlineState>online</onlineState>
+			<stateMessage><![CDATA[Online]]></stateMessage>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/e2/e20a375f0b70774605ff4a7a53924e502cdaa98d.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/e2/e20a375f0b70774605ff4a7a53924e502cdaa98d_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/e2/e20a375f0b70774605ff4a7a53924e502cdaa98d_full.jpg]]></avatarFull>
+			<friendsSince><![CDATA[1231109143]]></friendsSince>
+		</friend>
+	</friends>
+
+	<weblinks>
+	</weblinks>
+
+	<groups>
+		<group isPrimary="0">
+			<groupID64>103582791429530643</groupID64>
+			<groupName><![CDATA[GTFOGaming]]></groupName>
+			<groupURL><![CDATA[gtfo]]></groupURL>
+			<headline><![CDATA[GTFOGaming.co.uk - Finest European Gaming Servers]]></headline>
+			<summary><![CDATA[The GTFOGaming steam community group is open to all members of the public. Feel free to join if you play on our servers, and spread the word about us.<br /><br />Players wearing the "GTFO" tag are admins, and the tag is solely for GTFO members use. Please visit our forums if you are interested in becoming a GTFO member.<br /><br />If someone is disrupting your time on GTFOGaming servers, please join the Steam Group Chat to report or alternatively visit the forums. (if applicable please take demo and note the Steam ID of user via status cmd through console)]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/cc/ccde6da64fde03dedddae0124f9adeb3ded5495c.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/cc/ccde6da64fde03dedddae0124f9adeb3ded5495c_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/cc/ccde6da64fde03dedddae0124f9adeb3ded5495c_full.jpg]]></avatarFull>
+			<memberCount>102220</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>2350</membersInGame>
+			<membersOnline>7544</membersOnline>
+		</group>
+		<group isPrimary="1">
+			<groupID64>103582791429570685</groupID64>
+			<groupName><![CDATA[Bazooka Rapers]]></groupName>
+			<groupURL><![CDATA[bazookarapers]]></groupURL>
+			<headline><![CDATA[death is your only friend]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/29/297e6616e3bff09e5d098491e1f0c043650a60b9.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/29/297e6616e3bff09e5d098491e1f0c043650a60b9_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/29/297e6616e3bff09e5d098491e1f0c043650a60b9_full.jpg]]></avatarFull>
+			<memberCount>6</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>0</membersInGame>
+			<membersOnline>0</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791429597106</groupID64>
+			<groupName><![CDATA[Småland-Online]]></groupName>
+			<groupURL><![CDATA[sweden-online]]></groupURL>
+			<headline><![CDATA[TF2]]></headline>
+			<summary><![CDATA[Välkommen till www.sweden-online.org!<br />--------------------------------------------------------<br />(in swedish)INFO OM SWEDEN-ONLINE:<br />Vi startade för ungefär ett år sen med en CSS server men tröttnade ganska fort på detta eftersom nästan alla här på SO hade då redan lirat CSS i ett antal år, Så vi gick över till en Team fortress 2 server ganska snart.<br />Detta skulle bli strålande roligt och det visade sig fort att det var detta vi skulle köra på i framtiden.<br />Nu är vi en av sveriges mest besöka TF2 server s och har full rulle från morgon till natt.<br />Många som spelat på våran server säger ofta "En av de roligaste och mest taktiska servers dom någonsin spelat på" Vilket är otroligt kul att höra när man lagt ner så otroligt mycket tid på att bygga upp den.<br />Vi har nu ugefär 7 stycken admins och över 15 stammisar (Spelare som lägger ner mycket tid på våran server).<br />Så vill du få ut så mycket av ditt Team fortress 2 spelande, Gå då in och umgås med oss!<br />--------------------------------------------------------<br />SERVERINFO<br />IP: 87.96.152.129:27015<br />Webbsida: www.sweden-online.org<br />(där finns också forum.)<br />--------------------------------------------------------<br />Foor game booking or other PCW related stuff please go to our IRC channel on quakenet (#smaland-online) or send us an email at: smaland-online@bleachme.se, If you send a mail  be warned that it may take some time for us to contact you becouse we get many mails all day, With that sid I hope you have a fun TF2 game experience.<br /><br />]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/db/dbf9d7ec0647ab7b9b61d2a0b01cdcf023083006.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/db/dbf9d7ec0647ab7b9b61d2a0b01cdcf023083006_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/db/dbf9d7ec0647ab7b9b61d2a0b01cdcf023083006_full.jpg]]></avatarFull>
+			<memberCount>90</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>2</membersInGame>
+			<membersOnline>10</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791430165486</groupID64>
+			<groupName><![CDATA[L4D SWE]]></groupName>
+			<groupURL><![CDATA[Left4deadswe]]></groupURL>
+			<headline><![CDATA[For swedish left 4 dead gamers]]></headline>
+			<summary><![CDATA[A swedish left 4 dead group <br /><br />~ En svensk Left 4 dead grupp.<br /><br /><br />]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/99/9965e37062826b04eae75624151417ae0096d19a.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/99/9965e37062826b04eae75624151417ae0096d19a_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/99/9965e37062826b04eae75624151417ae0096d19a_full.jpg]]></avatarFull>
+			<memberCount>732</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>35</membersInGame>
+			<membersOnline>76</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791430333179</groupID64>
+			<groupName><![CDATA[TF2 Sverige]]></groupName>
+			<groupURL><![CDATA[tf2sverige]]></groupURL>
+			<headline><![CDATA[TF2 Sverige]]></headline>
+			<summary><![CDATA[En svensk gemenskap för alla Team Fortress 2 intresserade]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f7/f780e1f80588bcb57b202f81bb07c60eded2407e.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f7/f780e1f80588bcb57b202f81bb07c60eded2407e_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/f7/f780e1f80588bcb57b202f81bb07c60eded2407e_full.jpg]]></avatarFull>
+			<memberCount>324</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>7</membersInGame>
+			<membersOnline>42</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791430511766</groupID64>
+			<groupName><![CDATA[eXhale public]]></groupName>
+			<groupURL><![CDATA[eXhale-public]]></groupURL>
+			<headline><![CDATA[eXhale public]]></headline>
+			<summary><![CDATA[Välkommen till eXhale's community!<br />*24 slot<br />*Maxping 150<br />*Nocrit<br />*Alltalk<br />*eXp community klan<br />*Trevligt folk<br />*Forum <br /><br />Kolla in vårat foum och bli medlem =)<br /><br />http://www.exhale.forum24.se/<br /><br />För dig som gillar eXhale public och inte är med i någon klan. Kan gärna gå med i eXhale's community och nicka eXp. Desto fler desto bättre!<br /><br />24slot | all maps :83.255.249.196:27015<br /><br /><br /><br /><br />]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/02/0200189f6bfc2f68fbee6710bf4f02927bdc4db6.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/02/0200189f6bfc2f68fbee6710bf4f02927bdc4db6_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/02/0200189f6bfc2f68fbee6710bf4f02927bdc4db6_full.jpg]]></avatarFull>
+			<memberCount>249</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>5</membersInGame>
+			<membersOnline>27</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791430804367</groupID64>
+			<groupName><![CDATA[gentlem3n's club]]></groupName>
+			<groupURL><![CDATA[gentlem3n]]></groupURL>
+			<headline><![CDATA[~ Ye Olde Gentlem3n's Club ~]]></headline>
+			<summary><![CDATA[Keep shirt on at all times when using facilities.]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/5a/5a013798406e6043a5f532c9d721a355547b9512.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/5a/5a013798406e6043a5f532c9d721a355547b9512_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/5a/5a013798406e6043a5f532c9d721a355547b9512_full.jpg]]></avatarFull>
+			<memberCount>1182</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>65</membersInGame>
+			<membersOnline>218</membersOnline>
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791430829986</groupID64>
+			<groupName><![CDATA[UK-TF]]></groupName>
+			<groupURL><![CDATA[UK-TF]]></groupURL>
+			<headline><![CDATA[UK-TF Community group]]></headline>
+			<summary><![CDATA[Welcome To The UK-TF Community Page<br /><br /><br />Our aim is to provide a network of fun, friendly and easy going servers where people can have a decent game without grief, hassle and free of cheaters.<br /><br />Our admin goal is to remain invisiable unless actually required providing we hope some of the best gaming you can come across.<br /><br />Our servers and community is open to everyone worldwide, we are simply built on the foundations of old school Team fortress players mostly from the UK :&gt;<br /><br />News:<br /><br />!! Announcement !!<br />Our IP Addresses have changed!!<br /><br />We are looking in to other games as well, more information will be posted once things have been finalised.<br /><br />Coming soon!! - Donators Perks: Reserved slots, Quakenet BNC's, Team Balance Immunity, plus more !!!!<br /><br />Note some of our servers run bots, but these are not the run of the mill lame bots they are the Valve AI bots which are being improved all the time. check them out they can be a challenge.<br /><br />Server List:-<br /><br />Team Fortress 2<br /><br />UK-TF - (01) Payload [HLStatsX] 				94.198.82.250:27015 	SLOTS: 26<br />UK-TF - (02) ColdFront 24/7 					94.198.82.250:27025 	SLOTS: 24<br />UK-TF - (03) Mann Manor [HLStatsX]		94.198.82.250:27035 	SLOTS: 26<br />UK-TF - (04) CP GORGE 24/7 [HLStatsX]{bots}			94.198.82.250:27045		SLOTS: 28<br />UK-TF - (05) Dustbowl 24/7 [HLStatsX]	94.198.82.250:27055		SLOTS: 24<br />UK-TF - (06) Idle Server 24/7					77.68.42.43:27015		SLOTS: 32<br />UK-TF - (07) Capture The Flag! [Instant Respawn]			77.68.42.43:27025		SLOTS: 24<br />UK-TF - (08) CTF Battle Creek					77.68.42.43:27035		SLOTS: 24<br />UK-TF - (09) LazyTown 24/7 [HLStatsX]{bots}			77.68.42.43:27045		SLOTS: 32<br /><br />Team Fortress Classic<br /><br />UK-TF - (01) Skils Server [SpeedRun]				94.198.82.250:27115		SLOTS: 17<br />UK-TF - (02) Dustbowl Extreme						94.198.82.250:27125		SLOTS: 32<br />UK-TF - (03) The Rat Trap						94.198.82.250:27135		SLOTS: 17<br />UK-TF - (04) 2Fort/Well RTV							94.198.82.250:27145		SLOTS: 24<br />UK-TF - (05) FunZone							94.198.82.250:27155		SLOTS: 12<br /><br />Left4Dead2<br /><br />UK-TF - (01) Public Server						89.238.163.212:28012<br /><br />]]></summary>
+			<avatarIcon><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/bc/bcb91b79cca52f4083feb2b1921417ec54a64564.jpg]]></avatarIcon>
+			<avatarMedium><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/bc/bcb91b79cca52f4083feb2b1921417ec54a64564_medium.jpg]]></avatarMedium>
+			<avatarFull><![CDATA[http://media.steampowered.com/steamcommunity/public/images/avatars/bc/bcb91b79cca52f4083feb2b1921417ec54a64564_full.jpg]]></avatarFull>
+			<memberCount>4733</memberCount>
+			<membersInChat>0</membersInChat>
+			<membersInGame>183</membersInGame>
+			<membersOnline>564</membersOnline>
+		</group>
+	</groups>
+</profile>
